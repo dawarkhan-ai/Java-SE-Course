@@ -20,9 +20,11 @@ Ye repository **Java SE ke core concepts aur classes** ko cover karti hai, jo ma
 - **eventHandling**
 - **JDBC**
 ## 📂 Repository Structure
+```
 ├── src/ # Java source files
 ├── README.md # This file
 └── .gitignore # IntelliJ generated
+```
 
 ---
 
